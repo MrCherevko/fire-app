@@ -1,0 +1,15 @@
+.videoBG {
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    height: 100vh;
+    width: 100vw;
+    max-height: 100vh;
+    max-width: 100vw;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    object-fit: cover;
+}
